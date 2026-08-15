@@ -3,6 +3,7 @@
     "name": "Rakshit Agarwal",
     "title": "Full Stack Software Engineer",
     "initials": "RA",
+    "resumeUrl": "https://docs.google.com/document/d/1oCYFVKwWIOSacVYBgqyHV_DsMqfWdDt6HQ4pN-kKbRI/",
     "heroBio": "Full-stack engineer with 3+ years building scalable SaaS products across fintech, healthcare, and enterprise domains. I've shipped multi-tenant platforms serving 10,000+ users, microservices with NATS and Kafka, and AI-powered features with Gemini — with wins like 60% faster deploys, 50% faster check-ins, and sub-200ms real-time bidding.",
     "aboutBio": [
       "B.Tech in Computer Science (ABES Engineering College, 2019). I've grown from building real-time auction backends at Globalvox to engineering enterprise EHS/ESG and fintech SaaS at Brainerhub — working across React, Next.js, Node.js, microservices, and databases from MongoDB and Neo4j to PostgreSQL.",

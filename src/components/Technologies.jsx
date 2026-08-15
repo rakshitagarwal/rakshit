@@ -69,7 +69,7 @@ const Technologies = () => {
   return (
     <div className="border-b border-neutral-800 pb-24">
       <h1 className="my-20 text-center text-4xl">Technologies</h1>
-      <div className="space-y-16">
+      <div className="grid grid-cols-1 gap-16 lg:grid-cols-2 lg:gap-x-12 lg:gap-y-16">
         {TECHNOLOGY_CATEGORIES.map((category) => (
           <div key={category.name}>
             <h2 className="mb-8 text-center text-xl font-light tracking-wide text-neutral-400">
